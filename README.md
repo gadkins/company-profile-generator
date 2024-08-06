@@ -1,5 +1,7 @@
 # Company Profile Generator
 
+This app allows you to generate a company profile using OpenAI's GPT-4 model. You can input the company name and the app will search and scrape relevant websites and generate a company profile for you. The profile is based off a template that includes basic information, leadership, company overview, market and industry analysis, financial information, and operational details.
+
 ## Usage
 
 ### 1. Create a virtual environment and install the required packages:
