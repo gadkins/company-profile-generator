@@ -25,4 +25,4 @@ You can change the OpenAI model used by setting `OPENAI_MODEL_NAME` to one of th
 ### 3. Run the streamlit app:
 ``` bash
 streamlit run main.py
-```# ai-report-generation
+```
